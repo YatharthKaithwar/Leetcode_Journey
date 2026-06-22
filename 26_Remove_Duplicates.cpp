@@ -1,4 +1,4 @@
-Rempve Duplicate from sorted Array using 2 pointers approach
+// Remove Duplicate from sorted Array using 2 pointers approach
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
