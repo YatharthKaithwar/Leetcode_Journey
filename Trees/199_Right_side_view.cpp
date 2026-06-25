@@ -9,13 +9,13 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {                                            //                (ROOT)
-public:                                                     //          (LEFT)      (RIGHT) 
-    vector<int> rightSideView(TreeNode* root) {                
-        vector <int> res;
-        recursion (root,0,res);
-        return res;
-    }
+class Solution {                                            //                   (ROOT)
+public:                                                     //              (LEFT)      (RIGHT) 
+    vector<int> rightSideView(TreeNode* root) {             //   
+        vector <int> res;                                   //
+        recursion (root,0,res);                             //
+        return res;                                         //
+    }                                                       //
 public:
 void recursion(TreeNode* root, int level, vector <int> &res){
     if(root==NULL)return;
