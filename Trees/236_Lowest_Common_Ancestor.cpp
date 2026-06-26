@@ -24,6 +24,6 @@ public:
         }
         else{
             return root; //  If both is NULL then it is root node 
-        }
+        }    // 
     }
 };
