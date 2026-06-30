@@ -36,4 +36,16 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0025-reverse-nodes-in-k-group) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
