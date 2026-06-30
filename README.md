@@ -19,6 +19,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -44,6 +45,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
@@ -54,4 +56,8 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
