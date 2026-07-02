@@ -30,6 +30,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -43,6 +44,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
+| [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +65,8 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
