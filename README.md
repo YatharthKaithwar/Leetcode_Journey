@@ -45,6 +45,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
+| [1207-unique-number-of-occurrences](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
