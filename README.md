@@ -25,6 +25,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -53,12 +54,14 @@ I will solve and upload Leetcode Solutions regularly.
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,4 +74,8 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
