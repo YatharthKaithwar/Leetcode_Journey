@@ -53,6 +53,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1207-unique-number-of-occurrences) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,6 +104,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,6 +114,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0785-is-graph-bipartite](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -118,6 +122,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0547-number-of-provinces](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
 | ------- |
