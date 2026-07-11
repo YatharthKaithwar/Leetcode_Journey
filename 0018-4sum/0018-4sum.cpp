@@ -24,9 +24,7 @@ public:
                         while (k < l && nums[l] == nums[l + 1]) l--;
                 }
                 else if(sum<target)k++;
-                else {
-                    l--;
-                }
+                else l--;
                }
             }
         }
