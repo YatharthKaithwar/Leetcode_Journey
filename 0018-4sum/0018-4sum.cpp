@@ -5,13 +5,13 @@ public:
         vector<vector<int>> ans;
         sort(nums.begin(),nums.end());
         for(int i=0;i<n;i++){
-            if(i>0 && nums[i]==nums[i-1])continue;
+            if(i>0 && nums[i]==nums[i-1])continue; //for skipping the already taken value
             for(int j = i+1 ; j<n ; j++){
-               if (j > i + 1 && nums[j] == nums[j - 1]) continue;
+               if (j > i + 1 && nums[j] == nums[j - 1]) continue; //for skipping the already taken value
                int k = j+1; // next element to j
                int l = n-1; // next last element of array
                while(k<l){
-                long long sum = nums[i];
+                long long sum = nums[i];// due to overflow we are adding individual value
                 sum+=nums[j];
                 sum+=nums[k];
                 sum+=nums[l];
@@ -20,8 +20,8 @@ public:
                     k++;
                     l--;
 
-                     while (k < l && nums[k] == nums[k - 1]) k++;
-                        while (k < l && nums[l] == nums[l + 1]) l--;
+                     while (k < l && nums[k] == nums[k - 1]) k++; //for checking if the num is equivalent to the previous one to skip it
+                        while (k < l && nums[l] == nums[l + 1]) l--;//for checking if the num is equivalent to the next one to skip it
                 }
                 else if(sum<target)k++;
                 else l--;
