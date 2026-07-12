@@ -47,6 +47,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0018-4sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0018-4sum) |
 | [0074-search-a-2d-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
@@ -136,8 +137,10 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
