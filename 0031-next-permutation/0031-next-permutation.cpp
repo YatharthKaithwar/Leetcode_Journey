@@ -15,10 +15,10 @@ public:
             while (nums[j] <= nums[i]) {
                 j--;
             }
-            std::swap(nums[i], nums[j]);
+            swap(nums[i], nums[j]);
         }
 
         // Step 3: Reverse the sequence after the pivot index
-        std::reverse(nums.begin() + i + 1, nums.end());
+        reverse(nums.begin() + i + 1, nums.end());
     }
 };
