@@ -46,6 +46,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0011-container-with-most-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -85,6 +86,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0011-container-with-most-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
