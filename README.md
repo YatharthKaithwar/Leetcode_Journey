@@ -20,6 +20,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
 ## String
@@ -57,6 +58,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
@@ -95,6 +97,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0011-container-with-most-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
