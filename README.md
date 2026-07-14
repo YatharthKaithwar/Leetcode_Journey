@@ -29,6 +29,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
@@ -165,4 +166,8 @@ I will solve and upload Leetcode Solutions regularly.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
