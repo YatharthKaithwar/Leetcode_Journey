@@ -63,6 +63,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
+| [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
@@ -122,6 +123,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0074-search-a-2d-matrix) |
+| [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,4 +172,24 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0796-rotate-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
