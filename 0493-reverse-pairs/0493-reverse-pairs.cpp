@@ -1,4 +1,4 @@
-class Solution {
+class Solution {// MERGE SORT APPROACH
 public:
     int reversePairs(vector<int>& nums) {
         
