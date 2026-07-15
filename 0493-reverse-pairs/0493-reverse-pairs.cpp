@@ -1,6 +1,6 @@
 class Solution {// MERGE SORT APPROACH
 public:
-    int reversePairs(vector<int>& nums) {
+    int reversePairs(vector<int>& nums) { // For revision of merge sort 
         
      return mergeSort(nums, 0, nums.size() - 1);
     }
