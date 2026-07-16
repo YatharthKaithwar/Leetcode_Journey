@@ -59,6 +59,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
@@ -168,6 +169,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0152-maximum-product-subarray) |
 ## String Matching
 |  |
 | ------- |
