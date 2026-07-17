@@ -70,6 +70,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
@@ -134,6 +135,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0074-search-a-2d-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Depth-First Search
 |  |
