@@ -130,6 +130,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0074-search-a-2d-matrix) |
+| [0374-guess-number-higher-or-lower](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
 ## Depth-First Search
 |  |
@@ -209,4 +210,8 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
