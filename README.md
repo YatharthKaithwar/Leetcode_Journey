@@ -24,6 +24,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3862-find-the-smallest-balanced-index](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
@@ -222,4 +224,8 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
