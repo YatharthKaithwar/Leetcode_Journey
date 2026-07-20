@@ -79,6 +79,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1901-find-a-peak-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3862-find-the-smallest-balanced-index](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3862-find-the-smallest-balanced-index) |
@@ -128,6 +129,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1901-find-a-peak-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +143,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0540-single-element-in-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1901-find-a-peak-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1901-find-a-peak-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
