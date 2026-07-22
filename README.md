@@ -63,6 +63,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
@@ -184,6 +185,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0011-container-with-most-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0135-candy) |
 ## Dynamic Programming
 |  |
 | ------- |
