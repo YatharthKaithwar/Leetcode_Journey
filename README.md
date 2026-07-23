@@ -20,6 +20,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
@@ -190,6 +191,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -258,4 +260,8 @@ I will solve and upload Leetcode Solutions regularly.
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0700-search-in-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
