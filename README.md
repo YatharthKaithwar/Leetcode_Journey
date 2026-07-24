@@ -67,6 +67,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0128-longest-consecutive-sequence](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0152-maximum-product-subarray) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
@@ -143,6 +144,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
