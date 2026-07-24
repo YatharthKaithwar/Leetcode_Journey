@@ -86,6 +86,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [1901-find-a-peak-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2187-minimum-time-to-complete-trips](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [3708-longest-fibonacci-subarray](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3708-longest-fibonacci-subarray) |
 | [3862-find-the-smallest-balanced-index](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
@@ -151,6 +152,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1901-find-a-peak-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1901-find-a-peak-element-ii) |
+| [2187-minimum-time-to-complete-trips](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2187-minimum-time-to-complete-trips) |
 ## Depth-First Search
 |  |
 | ------- |
