@@ -10,8 +10,8 @@ private:
 public:
     long long minCost(vector<int>& nums, vector<int>& cost) {
         
-        int left = *min_element(nums.begin(), nums.end());
-        int right = *max_element(nums.begin(), nums.end());
+        int left = *min_element(nums.begin(), nums.end());//minimum element of nums
+        int right = *max_element(nums.begin(), nums.end());// maximum element of nums
         long long ans = findCost(nums, cost, left);
 
 
@@ -23,10 +23,10 @@ public:
 
             ans = min(cost1,cost2);
 
-            if(cost1<cost2){
+            if(cost1<cost2){// if cost1 is smaller than cost2 we eleminate right values of mid
                 right = mid;
             }
-            else{
+            else{// else eliminate left values of mid
                 left = mid+1;
             }
         }
