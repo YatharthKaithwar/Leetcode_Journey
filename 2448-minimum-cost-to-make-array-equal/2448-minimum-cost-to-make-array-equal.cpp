@@ -2,8 +2,8 @@ class Solution {
 private:
     long long findCost(vector<int>& nums, vector<int>& cost,int target){
         long long totalCost = 0;
-        for(int i =0;i<nums.size();i++){
-            totalCost += 1LL *abs(nums[i] - target) * cost[i];
+        for(int i =0;i<nums.size();i++){// iterating whole array
+            totalCost += 1LL *abs(nums[i] - target) * cost[i];  // total cost 
         }
         return totalCost;
     }
