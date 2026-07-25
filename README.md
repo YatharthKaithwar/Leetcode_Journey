@@ -87,6 +87,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2187-minimum-time-to-complete-trips) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3708-longest-fibonacci-subarray](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3708-longest-fibonacci-subarray) |
 | [3862-find-the-smallest-balanced-index](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
@@ -108,6 +109,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -153,6 +155,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0852-peak-index-in-a-mountain-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1901-find-a-peak-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1901-find-a-peak-element-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2187-minimum-time-to-complete-trips) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -194,6 +197,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0011-container-with-most-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0135-candy) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +235,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3862-find-the-smallest-balanced-index](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3862-find-the-smallest-balanced-index) |
 ## Backtracking
 |  |
