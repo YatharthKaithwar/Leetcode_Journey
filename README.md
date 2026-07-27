@@ -164,6 +164,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
@@ -262,6 +263,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
@@ -271,6 +273,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
@@ -280,6 +283,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
