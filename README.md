@@ -167,6 +167,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0547-number-of-provinces](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0785-is-graph-bipartite) |
+| [0938-range-sum-of-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
@@ -260,6 +261,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -267,6 +269,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -274,6 +277,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
 ## Memoization
 |  |
 | ------- |
