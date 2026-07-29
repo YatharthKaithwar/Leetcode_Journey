@@ -78,6 +78,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0540-single-element-in-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
@@ -138,6 +139,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
