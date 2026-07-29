@@ -85,6 +85,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1572-matrix-diagonal-sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1901-find-a-peak-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -144,6 +145,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1901-find-a-peak-element-ii) |
 | [2352-equal-row-and-column-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2352-equal-row-and-column-pairs) |
 ## Bit Manipulation
