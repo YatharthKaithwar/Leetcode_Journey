@@ -74,6 +74,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
@@ -303,4 +304,12 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
