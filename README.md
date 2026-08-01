@@ -34,6 +34,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0796-rotate-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
@@ -120,6 +121,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -315,4 +317,8 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0503-next-greater-element-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
