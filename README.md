@@ -40,6 +40,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0054-spiral-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2352-equal-row-and-column-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2352-equal-row-and-column-pairs) |
@@ -79,6 +80,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0503-next-greater-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0766-toeplitz-matrix) |
@@ -145,6 +147,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0074-search-a-2d-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
+| [0566-reshape-the-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
