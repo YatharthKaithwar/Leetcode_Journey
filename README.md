@@ -30,6 +30,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
@@ -231,6 +232,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0152-maximum-product-subarray) |
 ## String Matching
 |  |
@@ -267,6 +269,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0131-palindrome-partitioning) |
 ## Interactive
 |  |
 | ------- |
