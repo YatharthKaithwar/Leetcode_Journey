@@ -61,6 +61,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0031-next-permutation](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0074-search-a-2d-matrix) |
@@ -267,6 +268,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0131-palindrome-partitioning) |
@@ -327,4 +329,8 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
