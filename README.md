@@ -60,6 +60,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0018-4sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0054-spiral-matrix) |
@@ -268,6 +269,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
