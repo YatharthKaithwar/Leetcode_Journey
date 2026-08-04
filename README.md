@@ -26,6 +26,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
+| [0779-k-th-symbol-in-grammar](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -55,6 +56,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0050-powx-n) |
+| [0779-k-th-symbol-in-grammar](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0779-k-th-symbol-in-grammar) |
 ## Array
 |  |
 | ------- |
@@ -168,6 +170,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0078-subsets](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0779-k-th-symbol-in-grammar) |
 ## Binary Search
 |  |
 | ------- |
