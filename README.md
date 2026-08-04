@@ -20,6 +20,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
@@ -53,6 +54,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
