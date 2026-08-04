@@ -66,6 +66,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0054-spiral-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +164,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
@@ -271,6 +273,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0040-combination-sum-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0131-palindrome-partitioning) |
