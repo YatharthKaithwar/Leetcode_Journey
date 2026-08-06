@@ -53,6 +53,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0237-delete-node-in-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
