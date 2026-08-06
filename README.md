@@ -54,6 +54,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -154,6 +155,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0031-next-permutation](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
