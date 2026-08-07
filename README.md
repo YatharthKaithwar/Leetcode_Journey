@@ -24,6 +24,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0070-climbing-stairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
+| [0382-linked-list-random-node](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0779-k-th-symbol-in-grammar) |
@@ -54,6 +55,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0382-linked-list-random-node) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -358,4 +360,12 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0051-n-queens) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
