@@ -54,6 +54,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0382-linked-list-random-node) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -264,6 +265,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -309,6 +311,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -320,6 +323,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -331,6 +335,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
