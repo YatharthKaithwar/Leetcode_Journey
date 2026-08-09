@@ -54,6 +54,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0382-linked-list-random-node) |
@@ -157,6 +158,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0011-container-with-most-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0031-next-permutation) |
+| [0086-partition-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
