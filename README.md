@@ -119,6 +119,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [2225-find-players-with-zero-or-one-losses](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2352-equal-row-and-column-pairs) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3708-longest-fibonacci-subarray](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3708-longest-fibonacci-subarray) |
 | [3862-find-the-smallest-balanced-index](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
@@ -138,6 +139,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [1814-count-nice-pairs-in-an-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2352-equal-row-and-column-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +150,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
