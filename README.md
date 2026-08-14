@@ -19,6 +19,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0070-climbing-stairs) |
@@ -34,6 +35,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
@@ -126,6 +128,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0128-longest-consecutive-sequence) |
