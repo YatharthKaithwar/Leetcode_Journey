@@ -39,6 +39,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0796-rotate-string) |
@@ -170,6 +171,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0086-partition-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
