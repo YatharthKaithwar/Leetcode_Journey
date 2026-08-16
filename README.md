@@ -108,6 +108,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0766-toeplitz-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -153,6 +154,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -172,6 +174,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
