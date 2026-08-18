@@ -79,6 +79,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0031-next-permutation](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0054-spiral-matrix) |
@@ -170,6 +171,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0011-container-with-most-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
@@ -269,6 +271,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -367,10 +370,12 @@ I will solve and upload Leetcode Solutions regularly.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0503-next-greater-element-ii) |
 ## Counting Sort
 |  |
