@@ -53,6 +53,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2352-equal-row-and-column-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2352-equal-row-and-column-pairs) |
 ## Linked List
@@ -120,6 +121,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1901-find-a-peak-element-ii) |
+| [1929-concatenation-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2187-minimum-time-to-complete-trips) |
