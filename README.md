@@ -25,6 +25,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0070-climbing-stairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0263-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
