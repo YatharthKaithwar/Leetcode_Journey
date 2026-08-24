@@ -43,6 +43,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0345-reverse-vowels-of-a-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
