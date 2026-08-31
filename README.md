@@ -234,6 +234,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
@@ -287,6 +288,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
@@ -341,6 +343,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -365,6 +368,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -402,4 +406,8 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0382-linked-list-random-node) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
