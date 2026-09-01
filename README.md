@@ -231,6 +231,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0547-number-of-provinces) |
@@ -340,6 +341,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -353,6 +355,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -365,6 +368,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -410,4 +414,12 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0572-subtree-of-another-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
