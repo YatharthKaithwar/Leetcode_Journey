@@ -109,6 +109,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0540-single-element-in-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -385,12 +386,14 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |
 | ------- |
