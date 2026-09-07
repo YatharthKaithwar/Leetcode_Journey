@@ -104,6 +104,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
@@ -146,6 +147,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -161,6 +163,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0018-4sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -297,6 +300,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -400,6 +404,7 @@ I will solve and upload Leetcode Solutions regularly.
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -432,4 +437,16 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0084-largest-rectangle-in-histogram) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
