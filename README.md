@@ -119,6 +119,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0977-squares-of-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
+| [1046-last-stone-weight](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -445,6 +446,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
