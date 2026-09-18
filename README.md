@@ -30,6 +30,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0779-k-th-symbol-in-grammar) |
+| [0973-k-closest-points-to-origin](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -116,6 +117,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0766-toeplitz-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
@@ -166,6 +168,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0242-valid-anagram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
+| [0973-k-closest-points-to-origin](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -303,6 +306,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -446,6 +450,7 @@ I will solve and upload Leetcode Solutions regularly.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -455,6 +460,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -463,4 +469,12 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
