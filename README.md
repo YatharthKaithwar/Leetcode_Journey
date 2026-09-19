@@ -111,6 +111,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -205,6 +206,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0867-transpose-matrix) |
@@ -245,6 +247,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
@@ -257,6 +260,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0994-rotting-oranges) |
@@ -268,6 +272,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0128-longest-consecutive-sequence](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1559-detect-cycles-in-2d-grid) |
