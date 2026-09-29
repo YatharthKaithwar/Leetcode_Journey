@@ -111,6 +111,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0503-next-greater-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
@@ -207,6 +208,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0079-word-search](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
@@ -263,6 +265,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0130-surrounded-regions](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0733-flood-fill) |
@@ -305,6 +308,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0542-01-matrix) |
 ## String Matching
 |  |
 | ------- |
