@@ -88,6 +88,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0048-rotate-image](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0078-subsets) |
@@ -296,6 +297,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0135-candy) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -304,6 +306,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
