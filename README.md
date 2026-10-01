@@ -85,6 +85,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0036-valid-sudoku](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0054-spiral-matrix) |
@@ -297,6 +298,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0135-candy) |
@@ -306,6 +308,7 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
