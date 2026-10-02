@@ -134,6 +134,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [1572-matrix-diagonal-sum](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1572-matrix-diagonal-sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1929-concatenation-of-array) |
@@ -305,6 +306,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0134-gas-station](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0135-candy) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Dynamic Programming
 |  |
