@@ -45,6 +45,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0389-find-the-difference](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -305,6 +306,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0678-valid-parenthesis-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -322,6 +324,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0131-palindrome-partitioning](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0678-valid-parenthesis-string) |
 ## String Matching
 |  |
 | ------- |
@@ -427,6 +430,7 @@ I will solve and upload Leetcode Solutions regularly.
 | [0042-trapping-rain-water](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -504,4 +508,8 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0973-k-closest-points-to-origin) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
