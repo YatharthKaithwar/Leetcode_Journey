@@ -516,4 +516,8 @@ I will solve and upload Leetcode Solutions regularly.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0678-valid-parenthesis-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
