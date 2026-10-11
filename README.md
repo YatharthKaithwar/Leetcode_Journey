@@ -519,5 +519,6 @@ I will solve and upload Leetcode Solutions regularly.
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/0184-department-highest-salary) |
 | [1757-recyclable-and-low-fat-products](https://github.com/YatharthKaithwar/Leetcode_Journey/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
